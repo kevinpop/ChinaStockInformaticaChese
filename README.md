@@ -5,6 +5,8 @@ python2.7，
 numpy，
 panda，
 tushare  
+`使用说明`  
+  需要安装Tushare. 终端下执行pip install tushare
 `项目逻辑`   
   程序使用tushare爬去基本面数据  
   然后根据基本面数据去爬取沪深A股过去一年的历史行情 
